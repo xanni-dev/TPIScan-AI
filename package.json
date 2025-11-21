@@ -62,5 +62,9 @@
             "build": "vite build",
             "server": "node server.js",
             "start": "node server.js"
+      },
+      "dependencies": {
+            "react": "^19.2.0",
+            "react-dom": "^19.2.0"
       }
 }
